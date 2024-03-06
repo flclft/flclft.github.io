@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Текст писать тут
+			Ведущий разработчик в МТС Диджитал. 11 лет в backend'е на .Net. Хочу стать fullstack'ом.
         </p>
       </header>
     </div>
